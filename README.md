@@ -2,7 +2,7 @@
 
 Welcome to the official source code of my personal developer portfolio — built to showcase my projects, skills, certifications, and more. It’s fast, responsive, and completely powered by HTML, CSS, and JavaScript, with zero frameworks and zero clutter.
 
-🌐 **Live Site:** [https://bhavin234.github.io/bhavin-portfolio/](https://bhavin234.github.io/bhavin-portfolio/)
+🌐 **Live Site:** [https://bhavin234.github.io/Portfolio_Bhavin/](https://bhavin234.github.io/Portfolio_Bhavin/)
 
 ---
 
